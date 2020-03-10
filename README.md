@@ -7,4 +7,4 @@
 
 <hr>
 - Laporan project = FORMAT LAPORAN PROJECT PKK KELAS XII.docx <br>
-- Video demo =  bernama Record.mp4
+- Video demo = Record.mp4
