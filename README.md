@@ -8,7 +8,7 @@
 
 <hr>
 Cara penggunaan :<br>
-1. Download source code ini
-2. Extract
-3. Pindahkan hasil extract tadi ke dalam folder htdocs
-4. Jalankan program pada web browser dengan mengetikan url nya
+1. Download source code ini. <br>
+2. Extract. <br>
+3. Pindahkan hasil extract tadi ke dalam folder htdocs. <br>
+4. Jalankan program pada web browser dengan mengetikan url nya.
