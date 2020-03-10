@@ -6,5 +6,5 @@
 - Hargai usaha pembuatnya lah
 
 <hr>
-- Nama file laporan project bernama FORMAT LAPORAN PROJECT PKK KELAS XII.docx <br>
-- Nama video record project bernama Record.mp4
+- Laporan project = FORMAT LAPORAN PROJECT PKK KELAS XII.docx <br>
+- Video demo =  bernama Record.mp4
